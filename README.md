@@ -1,2 +1,2 @@
 # my_beginning
-my first github repository
+my first python program, completed it in the second semester of my freshman year.
